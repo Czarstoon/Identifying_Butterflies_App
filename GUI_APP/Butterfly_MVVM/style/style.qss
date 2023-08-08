@@ -1,0 +1,184 @@
+/*MainWIndow*/
+#MainWindow {
+    background-color: #0B2447;
+}
+/*MenuBar*/
+#widget {
+    background-color: #19376D;
+    border-radius: 5px;
+}
+
+
+#widget QPushButton {
+    background-color: #576CBC;
+    border-radius: 5px;
+    color: #A5D7E8;
+    text-align: left;
+    padding-left: 10px;
+  }
+
+#widget QPushButton:checked {
+    background-color: #A5D7E8;
+    color:#19376D;
+    border: none;
+
+  }
+#widget QLabel#title {
+    color: #A5D7E8;
+}
+
+/*Navigation_page*/
+#Navigation_page {
+  background-color: #19376D;
+  border-radius: 5px;
+}
+
+#Navigation_page QLabel{
+  color: #A5D7E8;
+
+}
+
+/*Model_page*/
+#Model_page  {
+  background-color: #19376D;
+  border-radius: 5px;
+}
+
+#Model_page QLabel#title_page_2 {
+  color: #A5D7E8;
+}
+
+#Model_page QGroupBox#groupBox {
+  color:#A5D7E8;
+  border-color:#A5D7E8;
+}
+
+#Model_page QPushButton {
+  background-color:#19376D;
+  color:#A5D7E8;
+  border: none;
+
+}
+
+#Model_page QLabel {
+  color: #A5D7E8;
+}
+
+#Model_page QPushButton {
+  color:#19376D;
+  border-radius: 5px;
+  background-color: #A5D7E8;
+  text-align: center;
+}
+
+#Model_page QPushButton:disabled {
+  background-color: #576CBC;
+  color: #A5D7E8;
+}
+#Model_page QToolTip {
+  color:#0B2447;
+  
+  font-size: 16px; /* rozmiar czcionki ToolTip */
+}
+
+#Model_page QGroupBox#groupBox_2 {
+  color:#A5D7E8;
+  border-color:#A5D7E8;
+}
+
+#Model_page QProgressBar {
+  text-align: center;
+  background-color: #A5D7E8;
+  color:#0B2447;
+  border-radius: 5px;
+}
+#Model_page QProgressBar::chunk {
+  background-color:#576CBC;
+  border-radius: 5px;
+}
+
+/*About_page*/
+QScrollArea {
+  border: none;
+}
+
+#scrollAreaWidgetContents {
+  background-color: #19376D;
+  color: #A5D7E8;
+}
+
+#About_page QLabel {
+  color: #A5D7E8;
+
+} 
+
+#About_page  {
+  background-color: #19376D;
+  border-radius: 5px;
+}
+
+#About_page QWidget#widget_2  {
+  background-color:#19376D;
+  border-radius: 5px;
+}
+#About_page QWidget#widget_3  {
+  background-color:#19376D;
+  border-radius: 5px;
+}
+#About_page QWidget#widget_4  {
+  background-color:#576CBC;
+  border-radius: 5px;
+}
+#About_page QWidget#widget_5  {
+  background-color:#576CBC;
+  border-radius: 5px;
+}
+#About_page QWidget#widget_6  {
+  background-color:#576CBC;
+  border-radius: 5px;
+}
+/*Technical_page*/
+#Technical_page QLabel {
+  color: #A5D7E8;
+}
+#Technical_page  {
+  background-color: #19376D;
+  border-radius: 5px;
+}
+
+
+#scrollAreaWidgetContents_2 {
+  background-color: #19376D;
+  color: #A5D7E8;
+}
+/*Links_page*/
+#Links_page QLabel {
+  color: #A5D7E8;
+}
+
+#Links_page {
+  background-color: #19376D;
+  border-radius: 5px;
+}
+
+#scrollAreaWidgetContents_3 {
+  background-color: #19376D;
+  color: #A5D7E8;
+}
+
+#Links_page QLabel#label_58 {
+  color:#576CBC; 
+}
+
+#Links_page QLabel:hover#label_58 {
+  color:#A5D7E8; 
+}
+
+
+
+
+
+
+
+
+
