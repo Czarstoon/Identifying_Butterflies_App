@@ -75,7 +75,7 @@ path to GUI_APP folder: https://github.com/Czarstoon/Identifying_Butterflies_App
 ### Tech stack for gui app
 **Programming Language:** Python
 
-**Used module:** PyQt5
+**Used modules:** PyQt5, Pyinstaller
 ### Key files
 All gui app files can be found in the GUI_APP folder:
 https://github.com/Czarstoon/Identifying_Butterflies_App/tree/main/GUI_APP
