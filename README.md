@@ -79,8 +79,18 @@ path to GUI_APP folder: https://github.com/Czarstoon/Identifying_Butterflies_App
 ### Key files
 All gui app files can be found in the GUI_APP folder:
 https://github.com/Czarstoon/Identifying_Butterflies_App/tree/main/GUI_APP
-### Running the gui application
+### Screens from the app
 
+* Model page (before the identification procedure) 
+![screen_1](https://github.com/Czarstoon/Identifying_Butterflies_App/blob/main/GUI_APP/screens/screen_1.PNG)
+
+* Model page (after the identification procedure) 
+![screen_2](https://github.com/Czarstoon/Identifying_Butterflies_App/blob/main/GUI_APP/screens/screen_2.PNG)
+* Specification page (with CNN visualisation)
+![screen_3](https://github.com/Czarstoon/Identifying_Butterflies_App/blob/main/GUI_APP/screens/screen_3.PNG)
+* Navigation page (app structure)
+![screen_4](https://github.com/Czarstoon/Identifying_Butterflies_App/blob/main/GUI_APP/screens/screen_4.PNG)
+### Running the gui application
 There is two possible way to run the app:
 * build virtual evnironment and install requirements.txt file with essential packages   
 
