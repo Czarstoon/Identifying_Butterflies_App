@@ -96,9 +96,11 @@ There is two possible way to run the app:
 
     * CMD command:
 
-        * python -m venv env_name
+        * py -m venv env_name
 
         * pip install -r requirements.txt
+          
+        * cd app
 
         * py main.py 
 
